@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Red Fresh Tomato",
+        "price": 60,
+        "img": "https://img.freepik.com/free-photo/one-fresh-red-tomato-isolated-white_1205-548.jpg?1&t=st=1648220036~exp=1648220636~hmac=de74090ac3d22862b4d36c1379036a775bb15f1be91f0f008ee7b0f818f5b45c&w=1380"
+    },
+    {
+        "id": 2,
+        "name": "Green Fresh Lemon",
+        "price": 40,
+        "img": "https://img.freepik.com/free-photo/fresh-yellow-lemons_144627-9633.jpg?t=st=1648220158~exp=1648220758~hmac=268f1c0df1940ebe7e493379b270ac21811414bcc190d98ae9e49e396c487683&w=1380"
+    },
+    {
+        "id": 3,
+        "name": "Fresh Capsicum",
+        "price": 45,
+        "img": "https://img.freepik.com/free-photo/pack-four-colorful-peppers_1203-1842.jpg?t=st=1648220242~exp=1648220842~hmac=d107c6843e868bd296f8d7b9001b5e4efdec169785ebaf73f6154f3a4aa49469&w=1380"
+    },
+    {
+        "id": 4,
+        "name": "Fresh Cucumber",
+        "price": 70,
+        "img": "https://img.freepik.com/free-photo/cucumber-isolated-white_29402-751.jpg?w=1380"
+    },
+    {
+        "id": 5,
+        "name": "Big Fresh Orange",
+        "price": 120,
+        "img": "https://img.freepik.com/free-photo/orange-white-white_144627-16571.jpg?t=st=1648220399~exp=1648220999~hmac=65c8b66cc21cbfb41bb5f4c36c98179ae2a57b09645920b07ea9ad1df32173b9&w=826"
+    },
+    {
+        "id": 6,
+        "name": "Red Fresh Apple",
+        "price": 110,
+        "img": "https://img.freepik.com/free-photo/apples-table_144627-6746.jpg?t=st=1648220037~exp=1648220637~hmac=66c84785b0b65e29a27105101534925a8374e28acf7b13fae2ba522dd4751388&w=826"
+    },
+    {
+        "id": 7,
+        "name": "Big Banana",
+        "price": 90,
+        "img": "https://img.freepik.com/free-photo/yellow-banana-fruit_1203-7489.jpg?t=st=1648220569~exp=1648221169~hmac=f5de640c37f66050dfd311168d667f3b9ccc8251cf4adf097a95767b2e8f942a&w=1380"
+    },
+    {
+        "id": 8,
+        "name": "Original Papaya",
+        "price": 80,
+        "img": "https://img.freepik.com/free-photo/fresh-papaya-fruit_144627-34201.jpg?t=st=1648220527~exp=1648221127~hmac=ff530a73b98f96bdbcc0f77453354b57744c4ecd733a1a86cf56cff0538b8d1b&w=1380"
+    },
+    {
+        "id": 9,
+        "name": "Big Coconut",
+        "price": 150,
+        "img": "https://img.freepik.com/free-photo/fresh-coconut-mellow-delicious-perfect-cut-isolated-white_179666-474.jpg?t=st=1648220649~exp=1648221249~hmac=0b4dbca71e062ad074bb73a232588a149f74637e8d7cb19a8b8318058d735514&w=1380"
+    }
+]
