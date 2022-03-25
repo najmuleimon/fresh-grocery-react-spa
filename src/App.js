@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Shop from './components/Shop/Shop';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Green Grocery Store</h1>
+    <div>
+      <h1>Fresh Grocery Store</h1>
+      <Shop></Shop>
     </div>
   );
 }
