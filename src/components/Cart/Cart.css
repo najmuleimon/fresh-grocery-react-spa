@@ -1,0 +1,41 @@
+.cart-details {
+    padding: 30px 15px;
+}
+
+.cart-details h2 {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.cart-details button {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    border: 0;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-family: 'Raleway', sans-serif;
+}
+
+.cart-details .choose {
+    background-color: #007527;
+}
+
+.cart-details .choose-again {
+    background-color: #007527;
+    margin-top: 20px;
+}
+
+.cart-list {
+    margin-bottom: 20px;
+}
