@@ -1,0 +1,15 @@
+.questions {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.questions h2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.questions p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #222;
+}
