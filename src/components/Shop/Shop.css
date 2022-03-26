@@ -17,3 +17,31 @@
     right: 0;
     top: 0;
 }
+
+@media (min-width: 320px) and (max-width:767px) {
+    .shop-container {
+        grid-template-columns: 1fr;
+    }
+
+    .products-container {
+        grid-template-columns: repeat(1, 1fr);
+        order: 1;
+    }
+
+    .cart-container {
+        height: auto;
+        position: relative;
+        order: 0;
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    .shop-container {
+        grid-template-columns: 3fr 1fr;
+    }
+
+    .products-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

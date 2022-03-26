@@ -39,3 +39,13 @@
 .cart-list {
     margin-bottom: 20px;
 }
+
+.random-item {
+    margin-top: 20px;
+}
+
+@media (min-width: 320px) and (max-width:575px) {
+    .cart-details button {
+        font-size: 14px;
+    }
+}

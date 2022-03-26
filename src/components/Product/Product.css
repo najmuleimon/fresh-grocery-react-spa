@@ -43,3 +43,24 @@
     font-size: 20px;
     font-weight: 500;
 }
+
+@media (min-width: 320px) and (max-width:767px) {
+    .card h2 {
+        font-size: 20px;
+    }
+
+    .card p {
+        font-size: 14px;
+    }
+
+    .card button {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 767px) and (max-width:1199px) {
+    .card h2 {
+        font-size: 22px;
+    }
+}

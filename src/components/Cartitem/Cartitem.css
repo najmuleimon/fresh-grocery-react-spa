@@ -3,6 +3,11 @@
     align-items: center;
 }
 
+.single-cart h4 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
 .single-cart img {
     height: 50px;
     width: 50px;
@@ -12,4 +17,11 @@
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     margin-right: 10px;
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    .single-cart img {
+        height: 40px;
+        width: 40px;
+    }
 }
